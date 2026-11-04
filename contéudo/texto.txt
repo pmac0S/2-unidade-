@@ -1,3 +1,0 @@
-texto.txt
-contador
-2 unidade
